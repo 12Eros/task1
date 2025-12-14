@@ -1,0 +1,2 @@
+使用Visdrone数据集,将其转换成YOLO格式
+链接：https://pan.quark.cn/s/a2b4709a5ff8
